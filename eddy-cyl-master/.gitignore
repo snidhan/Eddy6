@@ -1,0 +1,10 @@
+*.o
+*.res
+*.pln
+*.tno
+*~
+*.out
+*.plt
+*.vtk
+fort.*
+*.mod
